@@ -39,6 +39,7 @@ int main()
                                 break;
 
                         case 'q':
+                                a = 0;
                                 return 0;
                                 break;
                         default :
