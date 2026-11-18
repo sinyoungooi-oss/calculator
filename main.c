@@ -39,7 +39,7 @@ int main()
                                 break;
 
                         case 'q':
-                                printf("OSS Assignment 3\n");
+                                a = 0;
                                 return 0;
                                 break;
                         default :
@@ -48,5 +48,6 @@ int main()
 
                 }
         }
+        
         return 0;
 }
